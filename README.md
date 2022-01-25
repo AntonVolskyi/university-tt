@@ -12,4 +12,3 @@
 - --
 ## Diagram of relations between models
 ![pic](University_UML.png)
-# university-tt

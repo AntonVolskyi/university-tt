@@ -11,4 +11,4 @@
 - Data in format 'YYYY-MM-DD'
 - --
 ## Diagram of relations between models
-![pic](University_UML.png)
+![pic](University.png)
